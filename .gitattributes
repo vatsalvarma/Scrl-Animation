@@ -5,3 +5,4 @@
 *.tsx linguist-detectable=true
 *.js linguist-detectable=true
 *.jsx linguist-detectable=true
+*.mdx linguist-detectable=true
